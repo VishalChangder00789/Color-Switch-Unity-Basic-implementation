@@ -35,7 +35,7 @@ Unity 2018 with (LTS) recomended or above
 or
 You can start by directly cloning the github repository into the folder of your choice
 
-# To clone a github repo :
+# To Clone a github Repository
 * Go to the github repository.
 * Copy the https clone link in the code option.
 * It should look like : https://github.com/VishalChangder00789/Color-Switch-Unity-Basic-implementation.git
